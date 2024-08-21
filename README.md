@@ -1,5 +1,5 @@
 # Hello, I'm Anthony
-<a href="https://www.linkedin.com/in/anthony-arena-39420915b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anthony-arena-39420915b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent Cybersecurity graduate with a longstanding interest in technology and a strong determination to solve any problem I encounter.
 

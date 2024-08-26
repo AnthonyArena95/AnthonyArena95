@@ -33,6 +33,7 @@ My journey has been multifaceted, however, it has always included my computer. I
 <div>
     <img src="https://img.shields.io/badge/-Metasploit-3399FF?&style=for-the-badge&logo=Metasploit&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Kali_Linux-1A1A1A?&style=for-the-badge&logo=Kali_Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-John_the_Ripper-000000?&style=for-the-badge&logo=John_the_Ripper&logoColor=white" />
 
 </div>
 

@@ -56,5 +56,5 @@ My journey has been multifaceted, however, it has always included my computer. I
 
 ## Projects
 - <a href="https://github.com/AnthonyArena95/Home-Lab/tree/main">Home Lab</a>
-- <a href="https://github.com/AnthonyArena95/Cyber-Kill-Chain/tree/main">Home Lab</a>
+- <a href="https://github.com/AnthonyArena95/Cyber-Kill-Chain/tree/main">Cyber Kill Chain</a>
 

@@ -12,6 +12,7 @@ My journey has been multifaceted, however, it has always included my computer. I
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Configuration and Integration            | <a href="https://github.com/AnthonyArena95/Home-Lab/tree/main">Home Lab</a>|
+| Penetration Testing and Cyber Kill Chain      | <a href="https://github.com/AnthonyArena95/Cyber-Kill-Chain/tree/main">Cyber Kill Chain</a>|
 
 ## Tools
 
@@ -34,6 +35,10 @@ My journey has been multifaceted, however, it has always included my computer. I
     <img src="https://img.shields.io/badge/-Metasploit-3399FF?&style=for-the-badge&logo=Metasploit&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Kali_Linux-1A1A1A?&style=for-the-badge&logo=Kali_Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-John_the_Ripper-000000?&style=for-the-badge&logo=John_the_Ripper&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-FF0000?&style=for-the-badge&logo=Hydra&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-FF6600?&style=for-the-badge&logo=Hashcat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLMap-FF9900?&style=for-the-badge&logo=SQLMap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logo=Netcat&logoColor=white" />
 
 </div>
 
@@ -51,4 +56,5 @@ My journey has been multifaceted, however, it has always included my computer. I
 
 ## Projects
 - <a href="https://github.com/AnthonyArena95/Home-Lab/tree/main">Home Lab</a>
+- <a href="https://github.com/AnthonyArena95/Cyber-Kill-Chain/tree/main">Home Lab</a>
 

@@ -11,8 +11,9 @@ My journey has been multifaceted, however, it has always included my computer. I
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Configuration and Integration            | <a href="https://github.com/AnthonyArena95/Home-Lab/tree/main">Home Lab</a>|
-| Penetration Testing and Cyber Kill Chain      | <a href="https://github.com/AnthonyArena95/Cyber-Kill-Chain/tree/main">Cyber Kill Chain</a>|
+| SIEM Configuration and Integration            | <a href="https://github.com/AnthonyArena95/Home-Lab">Home Lab</a>|
+| Penetration Testing and Cyber Kill Chain      | <a href="https://github.com/AnthonyArena95/Cyber-Kill-Chain">Cyber Kill Chain</a>|
+| CTF - Malcolm, Wireshark, Encryption/Decryption, Reverse Engineering, Digital Forensics      | <a href="https://github.com/AnthonyArena95/CISA-ICS-CTF-2024">CISA ICS CTF 2024</a>|
 
 ## Tools
 
@@ -56,6 +57,7 @@ My journey has been multifaceted, however, it has always included my computer. I
 </div>
 
 ## Projects
-- <a href="https://github.com/AnthonyArena95/Home-Lab/tree/main">Home Lab</a>
-- <a href="https://github.com/AnthonyArena95/Cyber-Kill-Chain/tree/main">Cyber Kill Chain</a>
+- <a href="https://github.com/AnthonyArena95/Home-Lab">Home Lab</a>
+- <a href="https://github.com/AnthonyArena95/Cyber-Kill-Chain">Cyber Kill Chain</a>
+- <a href="https://github.com/AnthonyArena95/CISA-ICS-CTF-2024">CISA ICS CTF 2024</a>
 

@@ -29,6 +29,7 @@ My journey has been multifaceted, however, it has always included my computer. I
     <img src="https://img.shields.io/badge/-nmap-0000FF?&style=for-the-badge&logo=nmap&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Nessus_Essentials-3399FF?&style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Malcolm-1E90FF?&style=for-the-badge&logo=Malcolm&logoColor=white" />
 
 </div>
 

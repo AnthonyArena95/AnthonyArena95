@@ -1,11 +1,11 @@
 # Hello, I'm Anthony
 <a href="https://www.linkedin.com/in/anthony-arena-39420915b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent Cybersecurity graduate with a longstanding interest in technology and a strong determination to learn and solve any problem I encounter.
+I’m currently a SOC Analyst with a longstanding passion for technology and a strong drive to learn and tackle any challenge I encounter.
 
 ## Objective
 
-My journey has been multifaceted, however, it has always included my computer. I am very eager to transition into this field, specifically aiming for a security related position.
+Driven by a lifelong passion for technology, I bring a multifaceted background with a consistent focus on computers and IT. I am eager to continue growing and contributing meaningfully to the dynamic field of Cybersecurity.
 
 ## Skills
 
@@ -30,6 +30,8 @@ My journey has been multifaceted, however, it has always included my computer. I
     <img src="https://img.shields.io/badge/-Nessus_Essentials-3399FF?&style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Malcolm-1E90FF?&style=for-the-badge&logo=Malcolm&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cortex%20XDR-1E90FF?style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-1E90FF?style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 </div>
 

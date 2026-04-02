@@ -19,6 +19,7 @@ Driven by a lifelong passion for technology, I bring a multifaceted background w
 
 ### SIEM
 <div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-1E90FF?style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-3595F9?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 
 </div>
@@ -31,7 +32,6 @@ Driven by a lifelong passion for technology, I bring a multifaceted background w
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Malcolm-1E90FF?&style=for-the-badge&logo=Malcolm&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cortex%20XDR-1E90FF?style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-1E90FF?style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 </div>
 
